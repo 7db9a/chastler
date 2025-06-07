@@ -11,4 +11,4 @@ Thank you for your interest in contributing to chastler! Please follow these gui
 7. **Push Your Branch**: Push your changes to your fork using `git push origin <feature-branch-name>`.
 8. **Submit a Pull Request**: Go to the original repository on GitHub and create a pull request from your branch.
 
-We appreciate your contributions and look forward to collaborating with you! More information is forthcoming.
+We appreciate your contributions and look forward to collaborating with you! More information is forthcoming. Thank you.
